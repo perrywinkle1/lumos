@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__playwright__screenshot",
+      "mcp__playwright__navigate"
+    ]
+  }
+}
