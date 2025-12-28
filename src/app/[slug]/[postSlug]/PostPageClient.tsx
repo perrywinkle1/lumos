@@ -399,7 +399,7 @@ export function PostPageClient({
                   {post.author.name || "Anonymous"}
                 </h3>
                 <p className="text-lg text-lumos-gray-600 leading-relaxed italic">
-                  "{post.author.bio}"
+                  &ldquo;{post.author.bio}&rdquo;
                 </p>
               </div>
             </div>

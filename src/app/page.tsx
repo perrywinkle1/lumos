@@ -63,7 +63,7 @@ export default function HomePage() {
               pace
             </h1>
             <p className="mx-auto mt-8 max-w-2xl text-lg leading-8 text-lumos-text-secondary sm:text-xl sm:leading-9">
-              Lumos is your guide to the tools and technologies you've heard about but haven't mastered.
+              Lumos is your guide to the tools and technologies you&apos;ve heard about but haven&apos;t mastered.
               We provide the literacy and discovery you need to stay connected, informed, and confident in the modern age.
             </p>
             <div className="mt-12 flex flex-col items-center justify-center gap-4 sm:flex-row sm:gap-6">
@@ -75,7 +75,7 @@ export default function HomePage() {
               </Link>
               <Link href="/explore">
                 <Button variant="ghost" size="lg" className="w-full sm:w-auto text-lumos-text-secondary hover:text-lumos-text-primary ring-1 ring-lumos-dark-600 hover:ring-lumos-accent-primary/50 hover:bg-lumos-dark-800 transition-all">
-                  Explore what's possible
+                  Explore what&apos;s possible
                 </Button>
               </Link>
             </div>
@@ -127,7 +127,7 @@ export default function HomePage() {
                 Guided Discovery
               </h3>
               <p className="mt-4 text-lg leading-7 text-lumos-text-secondary">
-                Not sure what you're missing? Our curated guides help you
+                Not sure what you&apos;re missing? Our curated guides help you
                 discover new apps, services, and digital habits that can
                 simplify your daily life.
               </p>
@@ -143,8 +143,8 @@ export default function HomePage() {
               </h3>
               <p className="mt-4 text-lg leading-7 text-lumos-text-secondary">
                 Every interface element and guide is designed with accessibility
-                and clarity in mind. We've removed the clutter so you can focus
-                on what you're learning.
+                and clarity in mind. We&apos;ve removed the clutter so you can focus
+                on what you&apos;re learning.
               </p>
             </div>
 
@@ -179,7 +179,7 @@ export default function HomePage() {
             </h2>
             <p className="mt-6 text-lg leading-8 text-lumos-text-secondary">
               Join a growing community of people who are taking control of their
-              digital lives and discovering what's possible with Lumos.
+              digital lives and discovering what&apos;s possible with Lumos.
             </p>
           </div>
 
